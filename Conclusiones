@@ -1,0 +1,3 @@
+Respecto a la validación de la información de las mascotas se encontró que la información es consistente, puede validarse cada uno de los métodos correspondientes 
+sin encontrar ninguna anomalía, las respuestas por parte de la aplicación arrojan respectivamente sus estados 20x sin ninguna inconsistencia y sugiere que realiza la actualización de la información, 
+la consulta respecto al status, el nombre y el id sin novedades.
