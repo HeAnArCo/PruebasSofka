@@ -1,0 +1,21 @@
+Principalmente para ejecutar las pruebas se requiere el editor y K6 el cual se encuentra en la siguiente descripción:
+
+**Visual Studio Code** 
+
+Para los casos de prueba se requiere utilizar Visual Studio Code:
+
+1. Descarga desde el enlace: https://code.visualstudio.com/
+2. Haz clic en el botón "Download for Windows"
+3. Guarda el instalador en la ruta correspondiente
+4. Ejecuta el instalador y acepta los términos de la licencia
+5. Elige la carpeta de destino (por defecto: C:\Program Files\Microsoft VS Code)
+6. Completa el proceso de instalación con las configuraciones recomendadas
+
+**K6**
+
+Para Windows 
+
+1. Descarga el ejecutable desde https://github.com/grafana/k6/releases
+2. Descarga el archivo .msi más reciente
+3. Ejecuta el instalador y sigue las instrucciones
+
